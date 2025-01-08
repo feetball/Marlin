@@ -40,7 +40,7 @@
 //
 
 #ifndef MOSFET_A_PIN
-  #define MOSFET_A_PIN                        10  // HE0
+  #define MOSFET_A_PIN                         7  // HE0
 #endif
 #ifndef MOSFET_B_PIN
   #define MOSFET_B_PIN                         7  // HE1 or FAN Hotend Cooling
